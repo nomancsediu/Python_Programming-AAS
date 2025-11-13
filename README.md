@@ -1,4 +1,4 @@
-# 🐍 Python Programming - All About Semicolons
+# Python Programming - All About Semicolons
 
 > A comprehensive guide to understanding semicolons in Python programming
 
